@@ -1,2 +1,2 @@
 # 3Style
-I am developing an application to help me learn the 3 Style blindsolving method.
+This application is meant to assist one in learning the 3-style method for solving a rubiks cube blindfolded.
